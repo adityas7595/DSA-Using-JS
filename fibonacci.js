@@ -8,7 +8,7 @@ const fibonacci = (n) =>{
     return fib;
   }
   
-  // O(n^2) 
+  // O(n) 
   
   console.log(fibonacci(0));
   console.log(fibonacci(1));
